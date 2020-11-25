@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://josh1st.github.io/Game-Authority/sitemap.xml
